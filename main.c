@@ -10,5 +10,8 @@ int main() {
     main_prog_3_2_1();
     main_prog_3_2_2();
 
+    //main_prog_3_3_1();      // input
+    //main_prog_3_3_2();      // input
+
     return 0;
 }
