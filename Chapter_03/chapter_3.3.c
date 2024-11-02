@@ -22,3 +22,13 @@ int main_prog_3_3_2() {
 
     return 0;
 }
+
+int main_prog_3_3_3() {
+    int x, y;
+
+    scanf("%d %d", &x, &y);
+
+    printf("%d\n", x + 2 * y);
+
+    return 0;
+}
