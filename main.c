@@ -14,5 +14,8 @@ int main() {
     //main_prog_3_3_2();      // input
     //main_prog_3_3_3();      // input
 
+    //main_prog_3_4_1();      // input
+    //main_prog_3_4_2();      // input
+
     return 0;
 }
