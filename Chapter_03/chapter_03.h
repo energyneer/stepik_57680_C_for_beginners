@@ -29,4 +29,8 @@ int main_prog_3_4_1();
 
 int main_prog_3_4_2();
 
+int main_prog_3_5_1();
+
+int main_prog_3_5_2();
+
 #endif //CHAPTER_3_H
