@@ -21,3 +21,27 @@ int main_prog_3_5_2() {
 
     return 0;
 }
+
+int main_prog_3_5_3() {
+    float length, width;
+
+    scanf("%f %f", &length, &width);
+    printf("%f\n", length * width);
+
+    return 0;
+}
+
+int main_prog_3_5_4() {
+    float area, wallWidth, chairWidth;
+
+    scanf("%f %f %f", &area, &wallWidth, &chairWidth);
+    const float otherWallWidth = area / wallWidth;
+    printf("%d\n", (int)(otherWallWidth / chairWidth));
+
+    return 0;
+}
+
+int main_prog_3_5_5() {
+
+    return 0;
+}
