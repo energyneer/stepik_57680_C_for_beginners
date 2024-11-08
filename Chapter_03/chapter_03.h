@@ -39,4 +39,10 @@ int main_prog_3_5_4();
 
 int main_prog_3_5_5();
 
+int main_prog_3_5_6();
+
+int main_prog_3_5_7();
+
+int main_prog_3_5_8();
+
 #endif //CHAPTER_3_H

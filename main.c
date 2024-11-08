@@ -21,6 +21,10 @@ int main() {
     //main_prog_3_5_2();      // input
     //main_prog_3_5_3();      // input
     //main_prog_3_5_4();      // input
+    //main_prog_3_5_5();      // input
+    //main_prog_3_5_6();      // input
+    //main_prog_3_5_7();      // input
+    //main_prog_3_5_8();      // input
 
     return 0;
 }
