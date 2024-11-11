@@ -9,4 +9,6 @@ add_executable(stepik_57680_C_for_beginners main.c
         Chapter_03/chapter_3.2.c
         Chapter_03/chapter_3.3.c
         Chapter_03/chapter_3.4.c
-        Chapter_03/chapter_3.5.c)
+        Chapter_03/chapter_3.5.c
+        Chapter_04/chapter_04.h
+        Chapter_04/chapter_4.1.c)
