@@ -15,4 +15,6 @@ int main_prog_4_4_2();
 
 int main_prog_4_4_3();
 
+int main_prog_4_8_1();
+
 #endif //CHAPTER_04_H
