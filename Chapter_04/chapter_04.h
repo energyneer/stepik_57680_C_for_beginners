@@ -23,4 +23,12 @@ int main_prog_4_8_3();
 
 int main_prog_4_8_4();
 
+int main_prog_4_10_1();
+
+int main_prog_4_10_2();
+
+int main_prog_4_10_3();
+
+int main_prog_4_10_4();
+
 #endif //CHAPTER_04_H
