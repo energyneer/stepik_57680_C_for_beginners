@@ -70,3 +70,28 @@ int main_prog_4_10_4()
 
     return 0;
 }
+
+void rotateC(int *x1, int *y1, int *x2, int *y2)
+{
+    int xc = (*x1 + *x2) / 2;
+    int yc = (*y1 + *y2) / 2;
+
+    int temp = *x1;
+    *x1 = xc - (*y1 - yc);
+    *y1 = yc + (xc - temp);
+
+    temp = *x2;
+    *x2 = xc + (yc - *y2);
+    *y2 = yc - (temp - xc);
+}
+
+int main_prog_4_10_5()
+{
+    int xlt, ylt, xrb, yrb;
+    scanf("%d %d %d %d", &xlt, &ylt, &xrb, &yrb);
+
+    rotateC(&xlt, &ylt, &xrb, &yrb);
+    printf("%d %d %d %d", xlt, ylt, xrb, yrb);
+
+    return 0;
+}

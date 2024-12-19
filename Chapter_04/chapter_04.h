@@ -31,4 +31,6 @@ int main_prog_4_10_3();
 
 int main_prog_4_10_4();
 
+int main_prog_4_10_5();
+
 #endif //CHAPTER_04_H
